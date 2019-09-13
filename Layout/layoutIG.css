@@ -1,0 +1,71 @@
+body {background: black;}
+div.post{
+    background: white;
+    height:550px;
+    width: 400px;
+    margin: auto;
+    margin-top: 10px;
+}
+.header .header-left{
+    display: inline-block;
+    width: 90%;
+    }
+
+div.logo img{
+    float: left;
+    height: 30px;
+    width: 30px;
+    padding: 10px;
+}
+div.username h1 {
+
+    font-size: 15px;
+
+
+    margin: 0%;
+
+    padding: 5px;
+}
+div.usernam span{
+
+    font-size: 20px;
+    margin: 0%;
+
+    padding: 5px;}
+
+div.header-right {
+    display: inline-block;
+    width: 9%;}
+
+.photo img{
+    width: 100%
+}
+
+.button .left-button {
+    display: inline-block;
+    width: 90%;
+}
+
+.button .right-button {
+    display: inline-block; width: 9%;
+}
+
+button {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+
+button  img{width: 20px;
+            height: 20px;
+            padding: 5px;
+
+}
+.content p {font-family:
+            sans-serif;
+            text-align:
+            left;
+            padding: 5px;}
